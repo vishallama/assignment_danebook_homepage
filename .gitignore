@@ -1,0 +1,9 @@
+# Swap files
+*.swp
+
+# Sass folder
+.sass-cache/
+
+# Custom Sass file
+*.scss
+
