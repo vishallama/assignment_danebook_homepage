@@ -4,6 +4,9 @@
 # Sass folder
 .sass-cache/
 
+# Sass map file
+*.map
+
 # Custom Sass file
 *.scss
 
